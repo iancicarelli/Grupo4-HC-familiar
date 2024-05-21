@@ -39,7 +39,7 @@ discounts on sustainable products
 ## Google Drive
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
   
-#### Propuesta de valor
+#### Value proposition
 + https://docs.google.com/drawings/d/1dcqSovm8mAgVc4T3aLIRDf_p9StG2UbbuXfhy4T5fio/edit?usp=sharing
 
 #### Benchmark
