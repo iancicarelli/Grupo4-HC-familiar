@@ -1,27 +1,16 @@
 # Grupo4-HC-familiar App: Huella verde
 
-Approach: This project focuses on educating and motivating families, especially those with children, to adopt sustainable practices in their daily lives.
-with children, to adopt sustainable practices in their daily lives. The application will not only
-not only seek to reduce the family's carbon footprint, but also to instill sustainability values in young children.
-sustainability values in the very young.
+Approach: This project focuses on educating and motivating families, especially those with children, to adopt sustainable practices in their daily lives. The app will not only seek to reduce the family carbon footprint, but also to instill sustainability values in the youngest.
 
 Possible key features:
 
-● Family Carbon Footprint Tracker: It will allow families to calculate their aggregate carbon footprint based on their
-their joint carbon footprint based on their energy consumption, travel, eating, and
-shopping habits.
+● Family Carbon Footprint Tracker: It will allow families to calculate their joint carbon footprint based on their energy consumption, travel, food, and shopping habits.
 
-● Family Challenges: Weekly challenges that promote low-carbon activities, such as cooking a vegetarian meal, will
-such as cooking a vegetarian meal together, car-free days, or creative recycling projects.
-creative recycling projects.
+● Family Challenges: Weekly challenges that promote low-carbon activities, such as cooking a vegetarian meal together, car-free days, or creative recycling projects.
 
-● Interactive Education for Kids: Interactive sections designed to teach
-children about sustainability and the environment through games, stories, and educational activities.
-educational activities.
+● Interactive Education for Kids: Interactive sections designed to teach children about sustainability and the environment through games, stories, and educational activities.
 
-● Rewards and Achievements: Points and medals system to motivate continued participation
-rewards such as tickets to natural parks or discounts on sustainable products.
-discounts on sustainable products
+● Rewards and Achievements: Points and medals system to motivate continued participation, redeemable for rewards such as tickets to natural parks or discounts on sustainable products.
 
 ## Authors and acknowledgment
 + Eduardo Gomez - Analyst
@@ -30,7 +19,11 @@ discounts on sustainable products
 + Saul Lefiqueo - Designer
 
 ## Strategy
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/6154bd1e-d459-4019-a705-ecd0b378b6c7)
+
 ## Scope
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/9ae93613-74b6-47a2-9070-24b4ce4df95c)
+
 ## Structure
 ## Skeleton
 ## Surface
