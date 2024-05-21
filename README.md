@@ -1,45 +1,50 @@
 # Grupo4-HC-familiar
-Grupo 4:
-Descripcion: 
 
-Enfoque: Este proyecto se centra en educar y motivar a las familias, especialmente aquellas
-con niños, para que adopten prácticas sostenibles en su vida cotidiana. La aplicación no
-solo buscará reducir la huella de carbono familiar, sino también inculcar valores de
-sostenibilidad en los más jóvenes.
+Approach: This project focuses on educating and motivating families, especially those with children, to adopt sustainable practices in their daily lives.
+with children, to adopt sustainable practices in their daily lives. The application will not only
+not only seek to reduce the family's carbon footprint, but also to instill sustainability values in young children.
+sustainability values in the very young.
 
-Posibles características clave:
+Possible key features:
 
-● Rastreador Familiar de Huella de Carbono: Permitirá a las familias calcular su huella
-de carbono conjunta basada en su consumo de energía, viajes, alimentación, y
-hábitos de compra.
+● Family Carbon Footprint Tracker: It will allow families to calculate their aggregate carbon footprint based on their
+their joint carbon footprint based on their energy consumption, travel, eating, and
+shopping habits.
 
-● Desafíos Familiares: Desafíos semanales que promueven actividades bajas en
-carbono, como cocinar una comida vegetariana juntos, días sin coche, o proyectos
-de reciclaje creativo.
+● Family Challenges: Weekly challenges that promote low-carbon activities, such as cooking a vegetarian meal, will
+such as cooking a vegetarian meal together, car-free days, or creative recycling projects.
+creative recycling projects.
 
-● Educación Interactiva para Niños: Secciones interactivas diseñadas para enseñar a
-los niños sobre sostenibilidad y medio ambiente mediante juegos, cuentos y
-actividades educativas.
+● Interactive Education for Kids: Interactive sections designed to teach
+children about sustainability and the environment through games, stories, and educational activities.
+educational activities.
 
-● Recompensas y Logros: Sistema de puntos y medallas para motivar la participación
-continua, canjeables por recompensas como entradas a parques naturales o
-descuentos en productos sostenibles
+● Rewards and Achievements: Points and medals system to motivate continued participation
+rewards such as tickets to natural parks or discounts on sustainable products.
+discounts on sustainable products
 
-### Integrantes
-+ Eduardo Gomez
-+ Ian Cicarelli
-+ Ignacio Uribe
-+ Saul Lefiqueo
+### Authors and acknowledgment
++ Eduardo Gomez - Analyst
++ Ian Cicarelli - Project Manager
++ Ignacio Uribe - Designer
++ Saul Lefiqueo - Designer
 
-### Entregas
+### Strategy
+### Scope
+### Structure
+### Skeleton
+### Surface
+
+
 #### Drive :
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
-#### Taller 1: propuesta de valor
+  
+#### Propuesta de valor
 + https://docs.google.com/drawings/d/1dcqSovm8mAgVc4T3aLIRDf_p9StG2UbbuXfhy4T5fio/edit?usp=sharing
 
-#### Taller 2: benchmark
+#### Benchmark
 + https://drive.google.com/file/d/1JiepJLhmsBWjvx35IkBN0tOkrFVBi-mR/view?usp=sharing
 
-#### Taller 3: Uex Persona
+#### UX Persona
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
 
