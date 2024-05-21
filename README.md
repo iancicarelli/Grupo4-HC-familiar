@@ -1,4 +1,4 @@
-# Grupo4-HC-familiar
+# Grupo4-HC-familiar App: Huella verde
 
 Approach: This project focuses on educating and motivating families, especially those with children, to adopt sustainable practices in their daily lives.
 with children, to adopt sustainable practices in their daily lives. The application will not only
