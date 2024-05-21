@@ -3,7 +3,7 @@
 
 The central problem of this project lies in the lack of awareness and education about sustainable practices in households, which results in a high carbon footprint and little motivation to change habits. Many families, and especially children, are not sufficiently informed about how their daily actions affect the environment. This project seeks to address this urgent need through an app that tracks the family carbon footprint, offers green challenges, provides interactive education for children, and uses a reward system to motivate the adoption of sustainable practices.
 
-###Description
+### Description
 
 This project focuses on educating and motivating families, especially those with children, to adopt sustainable practices in their daily lives. The app will not only seek to reduce the family carbon footprint, but also to instill sustainability values in the youngest.
 
