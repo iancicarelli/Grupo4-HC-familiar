@@ -23,20 +23,20 @@ educational activities.
 rewards such as tickets to natural parks or discounts on sustainable products.
 discounts on sustainable products
 
-### Authors and acknowledgment
+## Authors and acknowledgment
 + Eduardo Gomez - Analyst
 + Ian Cicarelli - Project Manager
 + Ignacio Uribe - Designer
 + Saul Lefiqueo - Designer
 
-### Strategy
-### Scope
-### Structure
-### Skeleton
-### Surface
+## Strategy
+## Scope
+## Structure
+## Skeleton
+## Surface
 
 
-### Google Drive
+## Google Drive
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
   
 #### Propuesta de valor
