@@ -8,6 +8,7 @@ solo buscará reducir la huella de carbono familiar, sino también inculcar valo
 sostenibilidad en los más jóvenes.
 
 Posibles características clave:
+
 ● Rastreador Familiar de Huella de Carbono: Permitirá a las familias calcular su huella
 de carbono conjunta basada en su consumo de energía, viajes, alimentación, y
 hábitos de compra.
