@@ -24,8 +24,12 @@ Possible key features:
 + Saul Lefiqueo - Designer
 
 ## Strategy
+In the strategy part, the team made a value proposition, which helped us to take the first steps towards the solution required by our potential client. Which can be seen represented in the following image (.png in repository).
 
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/6154bd1e-d459-4019-a705-ecd0b378b6c7)
+
+Even though we have gathered information from several points of view, one of the most important was to realize from the functionality side, that in order to be useful, the application had to generate a constant use and to address that, some strategies such as competing with yourself or others, to generate “addiction” in the users, came up.
+
 
 ## Scope
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/9ae93613-74b6-47a2-9070-24b4ce4df95c)
