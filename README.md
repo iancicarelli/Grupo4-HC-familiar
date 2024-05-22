@@ -47,6 +47,8 @@ In the case of UX Personas, we conducted 3 of these, with potential end users of
 
 ## Structure
 The following navigation diagram was made to show the structure of the application (.png in repository).
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/raw/main/Diagrama%20de%20navegabilidad.png)
+
 
 ## Skeleton
 For the skeleton part, wireframes were made, which can be found in a .pdf file in the repository.
