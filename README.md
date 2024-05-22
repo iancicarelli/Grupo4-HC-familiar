@@ -55,6 +55,7 @@ For the skeleton part, wireframes were made, which can be found in a .pdf file i
 
 ## Surface
 For the surface part, high definition mockups were made, which are in a .pdf file in the repository, and navigability was implemented as a prototype in figma.
++ https://drive.google.com/file/d/1A0acvNFECJjIj-W8wlQzq9FzEd9OOQep/view?usp=drive_link
 
 ## Google Drive
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
@@ -70,4 +71,7 @@ For the surface part, high definition mockups were made, which are in a .pdf fil
 
 #### Navigability diagram
 + https://drive.google.com/file/d/1UQJoLxRyu6HoRw-_hGS6FMBmNXS5FAnz/view?usp=drive_link
+
+#### Interfaces
++ https://drive.google.com/file/d/1A0acvNFECJjIj-W8wlQzq9FzEd9OOQep/view?usp=drive_link
 
