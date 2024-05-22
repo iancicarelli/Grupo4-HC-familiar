@@ -66,3 +66,6 @@ For the surface part, high definition mockups were made, which are in a .pdf fil
 #### UX Persona
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
 
+#### Navigability diagram
++ https://drive.google.com/file/d/1UQJoLxRyu6HoRw-_hGS6FMBmNXS5FAnz/view?usp=drive_link
+
