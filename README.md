@@ -24,10 +24,14 @@ Possible key features:
 + Saul Lefiqueo - Designer
 
 ## Strategy
+
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/6154bd1e-d459-4019-a705-ecd0b378b6c7)
 
 ## Scope
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/9ae93613-74b6-47a2-9070-24b4ce4df95c)
+
+![UXPersonas](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/ed8b670a-b543-4c6a-bcf6-dc81bad6eef5)
+
 
 ## Structure
 ## Skeleton
