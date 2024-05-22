@@ -46,9 +46,13 @@ In the case of UX Personas, we conducted 3 of these, with potential end users of
 
 
 ## Structure
-## Skeleton
-## Surface
+The following navigation diagram was made to show the structure of the application (.png in repository).
 
+## Skeleton
+For the skeleton part, wireframes were made, which can be found in a .pdf file in the repository.
+
+## Surface
+For the surface part, high definition mockups were made, which are in a .pdf file in the repository, and navigability was implemented as a prototype in figma.
 
 ## Google Drive
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
