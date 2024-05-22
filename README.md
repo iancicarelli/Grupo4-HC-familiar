@@ -75,3 +75,6 @@ For the surface part, high definition mockups were made, which are in a .pdf fil
 #### Interfaces
 + https://drive.google.com/file/d/1A0acvNFECJjIj-W8wlQzq9FzEd9OOQep/view?usp=drive_link
 
+#### FIGMA
++ https://www.figma.com/design/GECpWb5a2b580tVAn7JNOD/Huella-verde?node-id=10%3A267&t=XAgWXIlRSrP9pnHt-1
+
