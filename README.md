@@ -40,7 +40,7 @@ With the benchmark we were able to realize the good things that the competition 
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/9ae93613-74b6-47a2-9070-24b4ce4df95c)
 
 ### UX Personas
-In the case of UX Personas, we conducted 3 of these, with potential end users of our application.
+In the case of UX Personas, we conducted 3 of these, with potential end users of our application (.png in repository).
 
 ![UXPersonas](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/ed8b670a-b543-4c6a-bcf6-dc81bad6eef5)
 
