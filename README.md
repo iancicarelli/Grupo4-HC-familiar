@@ -57,6 +57,11 @@ For the skeleton part, wireframes were made, which can be found in a .pdf file i
 For the surface part, high definition mockups were made, which are in a .pdf file in the repository, and navigability was implemented as a prototype in figma.
 + https://drive.google.com/file/d/1A0acvNFECJjIj-W8wlQzq9FzEd9OOQep/view?usp=drive_link
 
+  ### HIGH END INTERFACES UPDATED
+####LOGIN AND REGISTER
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/012e8a80-4f3d-4976-9b74-ea869d1b6239)
+
+
 ## Google Drive
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
   
