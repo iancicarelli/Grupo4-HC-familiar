@@ -54,18 +54,22 @@ The following navigation diagram was made to show the structure of the applicati
 After defining requirements and refining user needs, we begin wireframe design as part of The Skeleton Plane (Chapter 6, Elements of User Experience). This stage identifies key aspects of interface, navigation, and design. A mockup is then created to show how the design will communicate with the user and present information. According to the Surface Plane (Chapter 7, Elements of User Experience), wireframes guide the final user interface implementation. This phase emphasizes visual design and the final presentation, using wireframes as a foundation. Wireframes facilitate communication among designers, developers, and stakeholders, enabling discussion and validation of the layout and functionality before implementation.
 ### LOW-FI INTERFACES
 LOGIN AND REGISTER:
+
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/06e2d47a-4e34-414f-9323-afcbdfcf09bb)
 
 PROFILE VIEWS:
 In these views you can create profiles (family mode), view and edit them.
+
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/fce1b183-ed0f-4efc-b089-58de7d8840de)
 
 NEWS, CALCULATOR AND HOME:
 The news views on climate change, the carbon calculator and the main view.
+
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/691cb6ae-f52a-48db-9355-07cd6452cb47)
 
 REWARDS, LIBRARY AND CHALLENGES:
 Here is the rewards window, which is obtained by completing challenges, the educational library and the challenges section.
+
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/3ac1702a-1658-4c36-ae70-a1b9cb5e132a)
 
 
