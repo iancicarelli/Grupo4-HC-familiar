@@ -33,18 +33,19 @@ Even though we have gathered information from several points of view, one of the
 To define the scope we use two techniques, the Benchmark and UX Personas.
 
 ### Benchmark
-With the benchmark we were able to realize the good things that the competition or the rest of the market had in order to extract the good things that they had that can bring us, in addition to delimit some things (.png in repository).
+With the benchmark we were able to realize the good things that the competition or the rest of the market had in order to extract the good things that they had that can bring us, in addition to delimit some things.
 
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/9ae93613-74b6-47a2-9070-24b4ce4df95c)
 
 ### UX Personas
-In the case of UX Personas, we conducted 3 of these, with potential end users of our application (.png in repository).
+Huella Verde was designed to encourage its users, both children and adults, to improve their carbon footprint, providing an easy-to-use application that implements challenges and games in a new way to raise awareness about environmental care. Huella Verde, being an app that motivates you to set and complete daily challenges, is perfect for those who want to start helping the environment or for those who want to encourage or teach others to do so. By motivating users to improve week by week, Huella Verde promotes an environmentally friendly life for all its users, achieving a significant impact on the community.
 
+In the case of UX Personas, we conducted 3 of these, with potential end users of our application.
 ![UXPersonas](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/UEXPERSONA.png)
 
 
 ## Structure
-The following navigation diagram was made to show the structure of the application (.png in repository).
+The following navigation diagram was made to show the structure of the application.
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/raw/main/Diagrama%20de%20navegabilidad.png)
 
 
