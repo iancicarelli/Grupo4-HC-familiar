@@ -39,7 +39,7 @@ After an analysis of these products, we have recognized aspects that we can take
 
 With the benchmark we were able to realize the good things that the competition or the rest of the market had in order to extract the good things that they had that can bring us, in addition to delimit some things.
 
-![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/9ae93613-74b6-47a2-9070-24b4ce4df95c)
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/BENCHMARK.png)
 
 ### UX Personas
 Huella Verde was designed to encourage its users, both children and adults, to improve their carbon footprint, providing an easy-to-use application that implements challenges and games in a new way to raise awareness about environmental care. Huella Verde, being an app that motivates you to set and complete daily challenges, is perfect for those who want to start helping the environment or for those who want to encourage or teach others to do so. By motivating users to improve week by week, Huella Verde promotes an environmentally friendly life for all its users, achieving a significant impact on the community.
