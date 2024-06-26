@@ -58,8 +58,21 @@ For the surface part, high definition mockups were made, which are in a .pdf fil
 + https://drive.google.com/file/d/1A0acvNFECJjIj-W8wlQzq9FzEd9OOQep/view?usp=drive_link
 
   ### HIGH END INTERFACES UPDATED
-####LOGIN AND REGISTER
+LOGIN AND REGISTER:
+
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/012e8a80-4f3d-4976-9b74-ea869d1b6239)
+
+MAIN VIEW:
+
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/172515ea-d839-4832-a7f3-ad737b2eac2d)
+
+GAMES VIEW:
+
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/bc37fcce-c5a1-4b19-8e1a-8dada291e69a)
+
+PROFILE VIEW:
+
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/4b2c8223-9087-4aec-bc09-92fcc1bf2cad)
 
 
 ## Google Drive
