@@ -51,10 +51,13 @@ The following navigation diagram was made to show the structure of the applicati
 
 
 ## Skeleton
-For the skeleton part, wireframes were made, which can be found in a .pdf file in the repository.
+After defining requirements and refining user needs, we begin wireframe design as part of The Skeleton Plane (Chapter 6, Elements of User Experience). This stage identifies key aspects of interface, navigation, and design. A mockup is then created to show how the design will communicate with the user and present information. According to the Surface Plane (Chapter 7, Elements of User Experience), wireframes guide the final user interface implementation. This phase emphasizes visual design and the final presentation, using wireframes as a foundation. Wireframes facilitate communication among designers, developers, and stakeholders, enabling discussion and validation of the layout and functionality before implementation.
+### LOW-FI INTERFACES
+
 
 ## Surface
-For the surface part, high definition mockups were made, which are in a .pdf file in the repository, and navigability was implemented as a prototype in figma.
+Once the wireframe is approved by design, development, and stakeholders, we can develop a high-quality interface. This stage, highlighted in the Surface Plane (Chapter 7, Elements of User Experience), focuses on how the user will feel when using the application, considering elements like contrast, color, and typography. A well-designed interface merges content, functionality, and aesthetics, representing the peak of the user experience journey. Visual design is essential here, enhancing appeal and shaping user behavior. Through strategic use of color palettes, typography, and contrast, designers create interfaces that visually captivate, convey brand identity, and facilitate user navigation.
+
 ### HIGH END INTERFACES OLD
 + https://drive.google.com/file/d/1A0acvNFECJjIj-W8wlQzq9FzEd9OOQep/view?usp=drive_link
 
