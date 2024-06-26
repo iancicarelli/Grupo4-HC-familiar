@@ -57,20 +57,25 @@ For the skeleton part, wireframes were made, which can be found in a .pdf file i
 For the surface part, high definition mockups were made, which are in a .pdf file in the repository, and navigability was implemented as a prototype in figma.
 + https://drive.google.com/file/d/1A0acvNFECJjIj-W8wlQzq9FzEd9OOQep/view?usp=drive_link
 
-  ### HIGH END INTERFACES UPDATED
+### HIGH END INTERFACES UPDATED
+Below are the updated interfaces based on feedback from presentations, cross-evaluation and heuristics, as well as added accessibility initiatives. A complete change was made to the kit used, completely renewing the interface, solving major problems such as spacing, contrast, fonts, layout and eliminating the handmade look, one of the accessibility initiatives was to incorporate neutral gender and review the color palette with adobe color, so as not to generate difficulties for people with color blindness. From the functionality section, several were eliminated, such as libraries and rewards, to focus on games, family mode, tracking and eco tasks, while eliminating much overload on the navbar, which was balanced and introduced a different navigability in the application.
+
 LOGIN AND REGISTER:
 
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/012e8a80-4f3d-4976-9b74-ea869d1b6239)
 
 MAIN VIEW:
+In this case, the main window and the different screens that can be accessed from it are shown, it has 3 main parts, by pressing the upper part we access our own consumption, by pressing on the tasks we can go to see and add our tasks, and in the family mode, we enter to see all the members and by pressing on 1 we have access to its tracking.
 
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/172515ea-d839-4832-a7f3-ad737b2eac2d)
 
 GAMES VIEW:
+In the case of the games, it is a view where the 3 most played games will appear at the top and the most popular games of the application at the bottom, by pressing play you can play a game.
 
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/bc37fcce-c5a1-4b19-8e1a-8dada291e69a)
 
 PROFILE VIEW:
+In this view you can access your profile and see different settings, as well as go to the family section where you can manage your family members.
 
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/4b2c8223-9087-4aec-bc09-92fcc1bf2cad)
 
