@@ -180,21 +180,30 @@ In this view you can access your profile and see different settings, as well as 
 ## Google Drive
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
   
-#### Value proposition
+### Value proposition
 + https://docs.google.com/drawings/d/1dcqSovm8mAgVc4T3aLIRDf_p9StG2UbbuXfhy4T5fio/edit?usp=sharing
 
-#### Benchmark
+### Benchmark 
+##### old version
 + https://drive.google.com/file/d/1JiepJLhmsBWjvx35IkBN0tOkrFVBi-mR/view?usp=sharing
-
-#### UX Persona
+##### New Version
++ https://drive.google.com/file/d/1B4A4HlSR9oSsE9VFAuJs-TYtMzAXCWzH/view?usp=drive_link
+  
+### UX Persona
 + https://drive.google.com/drive/u/0/folders/1895kiPYiCSuvVWvpHBTV3ZAlvvLMO0X5
 
-#### Navigability diagram
+### Navigability diagram
 + https://drive.google.com/file/d/1UQJoLxRyu6HoRw-_hGS6FMBmNXS5FAnz/view?usp=drive_link
 
-#### Interfaces
+### Interfaces
 + https://drive.google.com/file/d/1A0acvNFECJjIj-W8wlQzq9FzEd9OOQep/view?usp=drive_link
 
-#### FIGMA
+### Heuristic evaluation results report
++ https://drive.google.com/file/d/14Ucwb8PRIgjakV5sJzIG09V1kgVMdcUq/view?usp=drive_link
+
+### Accessibility issues report
++ https://drive.google.com/file/d/1TR-Z1CT7duDvL9OuXM5tj3woLS1X2KOW/view?usp=drive_link
+
+### FIGMA
 + https://www.figma.com/design/GECpWb5a2b580tVAn7JNOD/Huella-verde?node-id=10%3A267&t=XAgWXIlRSrP9pnHt-1
 
