@@ -102,6 +102,58 @@ HOME / POINT MANAGEMENT / LIBRARY
 POINT TABLE / PROFILES TO EDIT/ DAILY CHALLENGES
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/fifth%20interface.png)
 
+### Heuristic evaluation results
+Heuristic evaluation is an essential process in application development, as it allows usability problems to be identified and corrected before end users interact with the product. In this way we were able to apply the corresponding improvements to our project.
+
+The heuristic evaluation carried out for our project detected the following problems for correction
+1. Navbar overloaded
+2. Inconsistent and unintuitive icons, different dimensions.
+3. As it is an application for children, the use of a co2 calculator can be very
+complex for them.
+4. The add button on the calculator is not easily understood, is not intuitive and does not
+shows what functionality it does.
+5. Unclear password recovery.
+6. Upper and lower sections are not very consistent, they have different edge radii,
+even in themselves.
+7. There is no error handling when entering access credentials incorrectly.
+8. There is a news section and another library section, which can be combined in the
+same view with categories.
+9. In the profile view, a three-dot icon is displayed that indicates “options”, not
+These options are listed and there is also an icon of a person who is unknown
+What functionality does it fulfill?
+10. The points table does not show the number of points for each user
+11. Information missing for reward redemption
+12. There is a trophies section, which shows the trophies and medals available, but
+there is no navigation to get to that view.
+13. The user cannot review which trophies and medals they have obtained, nor review those of others.
+people.
+14. You don't capitalize the words in the daily challenge boxes.
+15. Interaction with challenges unclear, does not provide information explaining how
+It works, and because the challenges have that disposition.
+16. Side Navbar is unnecessary, since they have one at the bottom.
+17. There is no options section to configure aspects of the application such as the
+language.
+
+### Accessibility issues
+For our project, we realized that we needed to implement accessibility improvements because it is essential not only to comply with laws and regulations, but also to ensure a positive user experience for everyone. Accessibility encourages inclusivity, improves usability, and can provide a competitive advantage in the marketplace. Integrating accessibility will ensure that our app is accessible to as many people as possible.
+For usability we focus on these aspects
+
+#### Change in buttons
+In this case the initiative consists of making the application buttons generate some type of feedback for the user and they can realize that they are indeed being
+pressed, it also generates a little more dynamism to the application, in the case of the image, when you press the access button, it changes to a different color tone.
+
+#### Color palette review
+In this case, due to the colors used, we believed it was pertinent to carry out a review of the colors, so that they do not generate conflicts for people with color blindness,
+Using the color.adobe.com page we verify that the color palette used in the application was safe for people with color blindness, so our application does not exclude or
+makes accessibility difficult for people with this condition.
+
+#### Gender Neutral
+We have decided to implement Gender Neutral standards, this helps us not assume the gender of a person and thus avoid discomfort or increase the comfort of the user when using the application.For cases of our system it is quite relevant, since it is intended for a public broad, which consists of children and adults, so using neutral language to encompass
+all is essential, in this case it is shown as in the trophies part, where Some trophies and medals had very marked gender names and were quite exclusionary and changes these names to something suitable for the vast majority.
+
+#### Lens Of Controls (interactive content)
+In this case it refers to everything that the user interacts with, be it buttons, links, etc. If the elements that are going to be interacted with are very small or are on an edge, this makes it difficult for the user to interact with them, as will be shown below. continuation.If we realize it is very difficult to select a user to edit it, this is why we will implement an improvement in its size, also if it implemented an improvement in navigability along with the language used.
+
 ### HIGH END INTERFACES UPDATED
 Below are the updated interfaces based on feedback from presentations, cross-evaluation and heuristics, as well as added accessibility initiatives. A complete change was made to the kit used, completely renewing the interface, solving major problems such as spacing, contrast, fonts, layout and eliminating the handmade look, one of the accessibility initiatives was to incorporate neutral gender and review the color palette with adobe color, so as not to generate difficulties for people with color blindness. From the functionality section, several were eliminated, such as libraries and rewards, to focus on games, family mode, tracking and eco tasks, while eliminating much overload on the navbar, which was balanced and introduced a different navigability in the application.
 
