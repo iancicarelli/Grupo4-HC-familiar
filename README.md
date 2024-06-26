@@ -18,9 +18,7 @@ Possible key features:
 ● Rewards and Achievements: Points and medals system to motivate continued participation, redeemable for rewards such as tickets to natural parks or discounts on sustainable products.
 
 ## Authors and acknowledgment
-+ Eduardo Gomez - Analyst
 + Ian Cicarelli - Project Manager
-+ Ignacio Uribe - Designer
 + Saul Lefiqueo - Designer
 
 ## Strategy
@@ -82,8 +80,20 @@ Once the wireframe is approved by design, development, and stakeholders, we can 
 ### HIGH END INTERFACES OLD
 In this section the first version of the interfaces created by our work team will be shown. These interfaces are to be taken as a reference and to be able to see the changes that were made by the work team, where we can notice the change.
 
-APP LOGO AND LOGIN WITH PROFILES
+APP LOGO / LOGIN / PROFILES
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/first%20interface.png)
+
+ADD USER / NEWS / CALCULATOR
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/second%20interface.png)
+
+REGISTRATION / TROPHIES / EDIT PROFILE
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/third%20interface.png)
+
+HOME / POINT MANAGEMENT / LIBRARY
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/fourth%20interface.png)
+
+POINT TABLE / PROFILES TO EDIT/ DAILY CHALLENGES
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/fifth%20interface.png)
 
 ### HIGH END INTERFACES UPDATED
 Below are the updated interfaces based on feedback from presentations, cross-evaluation and heuristics, as well as added accessibility initiatives. A complete change was made to the kit used, completely renewing the interface, solving major problems such as spacing, contrast, fonts, layout and eliminating the handmade look, one of the accessibility initiatives was to incorporate neutral gender and review the color palette with adobe color, so as not to generate difficulties for people with color blindness. From the functionality section, several were eliminated, such as libraries and rewards, to focus on games, family mode, tracking and eco tasks, while eliminating much overload on the navbar, which was balanced and introduced a different navigability in the application.
