@@ -33,6 +33,10 @@ Even though we have gathered information from several points of view, one of the
 To define the scope we use two techniques, the Benchmark and UX Personas.
 
 ### Benchmark
+The benchmarking process for our Green Footprint app is crucial to understanding user needs. By analyzing similar products like Duolingo, EcoHero, Netflix, and NatGeo Kids, we can identify notable features and functionality that can inspire and improve our own app.
+
+After an analysis of these products, we have recognized aspects that we can take advantage of in our project, such as the use of profiles to compare our progress with that of other users, dynamic games and a system to track the user's progress. In addition, we considered it important to include a login system with Google accounts, a carbon calculator and environmental challenges.
+
 With the benchmark we were able to realize the good things that the competition or the rest of the market had in order to extract the good things that they had that can bring us, in addition to delimit some things.
 
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/assets/89611189/9ae93613-74b6-47a2-9070-24b4ce4df95c)
