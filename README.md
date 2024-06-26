@@ -80,6 +80,8 @@ Once the wireframe is approved by design, development, and stakeholders, we can 
 ### HIGH END INTERFACES OLD
 In this section the first version of the interfaces created by our work team will be shown. These interfaces are to be taken as a reference and to be able to see the changes that were made by the work team, where we can notice the change.
 
+Observation some of the views that are present after receiving feedback were deleted or modified
+
 APP LOGO / LOGIN / PROFILES
 ![image](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/first%20interface.png)
 
