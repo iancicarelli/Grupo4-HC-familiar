@@ -80,7 +80,10 @@ Here is the rewards window, which is obtained by completing challenges, the educ
 Once the wireframe is approved by design, development, and stakeholders, we can develop a high-quality interface. This stage, highlighted in the Surface Plane (Chapter 7, Elements of User Experience), focuses on how the user will feel when using the application, considering elements like contrast, color, and typography. A well-designed interface merges content, functionality, and aesthetics, representing the peak of the user experience journey. Visual design is essential here, enhancing appeal and shaping user behavior. Through strategic use of color palettes, typography, and contrast, designers create interfaces that visually captivate, convey brand identity, and facilitate user navigation.
 
 ### HIGH END INTERFACES OLD
-+ https://drive.google.com/file/d/1A0acvNFECJjIj-W8wlQzq9FzEd9OOQep/view?usp=drive_link
+In this section the first version of the interfaces created by our work team will be shown. These interfaces are to be taken as a reference and to be able to see the changes that were made by the work team, where we can notice the change.
+
+APP LOGO AND LOGIN WITH PROFILES
+![image](https://github.com/iancicarelli/Grupo4-HC-familiar/blob/main/first%20interface.png)
 
 ### HIGH END INTERFACES UPDATED
 Below are the updated interfaces based on feedback from presentations, cross-evaluation and heuristics, as well as added accessibility initiatives. A complete change was made to the kit used, completely renewing the interface, solving major problems such as spacing, contrast, fonts, layout and eliminating the handmade look, one of the accessibility initiatives was to incorporate neutral gender and review the color palette with adobe color, so as not to generate difficulties for people with color blindness. From the functionality section, several were eliminated, such as libraries and rewards, to focus on games, family mode, tracking and eco tasks, while eliminating much overload on the navbar, which was balanced and introduced a different navigability in the application.
